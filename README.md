@@ -1,2 +1,4 @@
 # Mein erstes GIT Repository
-- Autorin: **AKC**
+## Meine Bashskripte
+
+Autorin: **AKC**
